@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\bin\Debug\net9.0\UdpReceiverApp.exe
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\bin\Debug\net9.0\UdpReceiverApp.deps.json
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\bin\Debug\net9.0\UdpReceiverApp.runtimeconfig.json
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\bin\Debug\net9.0\UdpReceiverApp.dll
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\bin\Debug\net9.0\UdpReceiverApp.pdb
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\UdpReceiverApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\UdpReceiverApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\UdpReceiverApp.AssemblyInfo.cs
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\UdpReceiverApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\UdpReceiverApp.dll
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\refint\UdpReceiverApp.dll
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\UdpReceiverApp.pdb
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\UdpReceiverApp.genruntimeconfig.cache
+C:\Users\User\Desktop\畢業專題\UdpReceiverApp\obj\Debug\net9.0\ref\UdpReceiverApp.dll

@@ -1,0 +1,4 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]project" filter=lfs diff=lfs merge=lfs -text
+My[[:space:]]project"[[:space:]]./Dataset/ filter=lfs diff=lfs merge=lfs -text
