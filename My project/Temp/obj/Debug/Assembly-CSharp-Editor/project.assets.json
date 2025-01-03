@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\My project\\Assembly-CSharp-Editor.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\畢業專題\\My project\\Assembly-CSharp-Editor.csproj",
       "projectName": "Assembly-CSharp-Editor",
-      "projectPath": "C:\\Users\\User\\Desktop\\project\\My project\\Assembly-CSharp-Editor.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\畢業專題\\My project\\Assembly-CSharp-Editor.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\project\\My project\\Temp\\obj\\Debug\\Assembly-CSharp-Editor\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\畢業專題\\My project\\Temp\\obj\\Debug\\Assembly-CSharp-Editor\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,8 +56,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\project\\My project\\Assembly-CSharp.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\project\\My project\\Assembly-CSharp.csproj"
+            "C:\\Users\\User\\Desktop\\畢業專題\\My project\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\畢業專題\\My project\\Assembly-CSharp.csproj"
             }
           }
         }

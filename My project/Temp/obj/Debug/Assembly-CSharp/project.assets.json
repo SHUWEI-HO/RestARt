@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\project\\My project\\Assembly-CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\畢業專題\\My project\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "C:\\Users\\User\\Desktop\\project\\My project\\Assembly-CSharp.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\畢業專題\\My project\\Assembly-CSharp.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\project\\My project\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\畢業專題\\My project\\Temp\\obj\\Debug\\Assembly-CSharp\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
